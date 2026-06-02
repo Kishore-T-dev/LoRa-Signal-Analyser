@@ -108,7 +108,7 @@ LoRa-Signal-Monitor/
 
 ---
 
-## 🔌 Pin Connections
+##  Pin Connections
 
 Full wiring tables for the ESP32 ↔ SX1278 connections are documented in [`Hardware/pin_connections.md`](Hardware/pin_connections.md).
 
@@ -180,7 +180,7 @@ The enclosures are designed for a compact, handheld form factor. Both TX and RX 
 
 ---
 
-## 🛠️ Applications
+##  Applications
 
 - LoRa range testing
 - Wireless network diagnostics
