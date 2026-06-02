@@ -1,6 +1,9 @@
 #  LoRa Signal Analyzer
 
 A portable wireless link quality monitoring system built with two ESP32 + SX1278 devices. The transmitter continuously sends LoRa packets while the receiver measures and visualizes all communication metrics in real time on a 2.8" TFT dashboard — RSSI, SNR, latency, packet loss, and battery status.
+<p align="center">
+  <img src="Images/cover.jpg" alt="LoRa Signal Analyzer" width="850">
+</p>
 
 ---
 
