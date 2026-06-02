@@ -26,15 +26,12 @@ LoRa-Signal-Monitor/
 │   ├── transmitter/                 # TX ESP32 firmware
 │   └── receiver/                    # RX ESP32 firmware
 │
-├── 3D_Designs/
-│   ├── enclosure_tx.stl             # TX printable enclosure
-│   ├── enclosure_rx.stl             # RX printable enclosure
-│   ├── enclosure_tx.f3d             # TX Fusion 360 source
-│   └── enclosure_rx.f3d             # RX Fusion 360 source
-│
-└── Documentation/
-    ├── project_report.pdf
-    └── testing_results.pdf
+└── 3D_Designs/
+    ├── enclosure_tx.stl             # TX printable enclosure
+    ├── enclosure_rx.stl             # RX printable enclosure
+    ├── enclosure_tx.f3d             # TX Fusion 360 source
+    └── enclosure_rx.f3d             # RX Fusion 360 source
+
 ```
 
 ---
