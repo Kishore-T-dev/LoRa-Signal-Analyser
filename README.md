@@ -4,7 +4,7 @@ A portable wireless link quality monitoring system built with two ESP32 + SX1278
 
 ---
 
- Repository Structure
+## Repository Structure
 
 ```
 LoRa-Signal-Monitor/
@@ -67,20 +67,20 @@ LoRa-Signal-Monitor/
 
 ---
 
-## ⚡ Features
+##  Features
 
-- 📶 Real-time RSSI monitoring (signal strength in dBm)
-- 🎚️ Real-time SNR monitoring (signal-to-noise ratio in dB)
-- ⏱️ Latency measurement (packet travel time in ms)
-- 📦 Packet loss percentage calculation
-- 🔋 Battery level monitoring on both TX and RX
-- 📊 Signal history graph on TFT dashboard
-- 🖨️ Compact 3D-printed handheld enclosures
-- 🔌 USB rechargeable via TP4056
+-  Real-time RSSI monitoring (signal strength in dBm)
+-  Real-time SNR monitoring (signal-to-noise ratio in dB)
+-  Latency measurement (packet travel time in ms)
+-  Packet loss percentage calculation
+-  Battery level monitoring on both TX and RX
+-  Signal history graph on TFT dashboard
+-  Compact 3D-printed handheld enclosures
+-  USB rechargeable via TP4056
 
 ---
 
-## 📊 Metrics
+##  Metrics
 
 | Metric      | Description                              | Unit |
 |------------|------------------------------------------|------|
@@ -114,7 +114,7 @@ Full wiring tables for the ESP32 ↔ SX1278 connections are documented in [`Hard
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -135,7 +135,7 @@ Full wiring tables for the ESP32 ↔ SX1278 connections are documented in [`Hard
 
 ---
 
-## 🔋 Power System
+##  Power System
 
 ```
 18650 Battery
@@ -151,7 +151,7 @@ ESP32 + Peripherals
 
 ---
 
-## 📸 Images
+##  Images
 
 | Transmitter | Receiver | Both |
 |:-----------:|:--------:|:----:|
@@ -167,7 +167,7 @@ ESP32 + Peripherals
 
 ---
 
-## 🖨️ 3D Designs
+##  3D Designs
 
 The enclosures are designed for a compact, handheld form factor. Both TX and RX have individual enclosures optimized for their respective components.
 
@@ -191,7 +191,7 @@ The enclosures are designed for a compact, handheld form factor. Both TX and RX 
 
 ---
 
-## 🔭 Future Improvements
+##  Future Improvements
 
 - GPS integration for range mapping
 - SD card data logging
@@ -203,12 +203,12 @@ The enclosures are designed for a compact, handheld form factor. Both TX and RX 
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Contributing
+##  Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
